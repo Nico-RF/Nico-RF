@@ -67,9 +67,9 @@ I am a Computer Engineering and Statistics student at the University of Salamanc
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Quantum Computing** | Advanced |[cite: 1] Published research on quantum algorithms applied to social networks (*INJUVE 2024/2025*)[cite: 1]. |
+| **Quantum Computing** | Advanced |Published research on quantum algorithms applied to social networks (*INJUVE 2024/2025*)[cite: 1]. |
 | **Data Analysis & AI** | Advanced | Certified in AI-driven data analysis across science, engineering, and architecture. |
-| **Competitive Programming** | Expert |[cite: 1] 1st Place Winner in the Ada Byron Regional Competitive Programming Contest. |
+| **Competitive Programming** | Expert | 1st Place Winner in the Ada Byron Regional Competitive Programming Contest. |
 
 ---
 
@@ -122,19 +122,19 @@ Implemented intermediate code generation, register allocation strategies, and se
 ## 💼 Experience
 
 ### **Deputy Secretary of External Relations** | *Consejo de Delegaciones de Estudiantes — Universidad de Salamanca*
-**Dec 2025 – Present**[cite: 1]
-* Representing student governing bodies at national assemblies including CREUP (Coordinadora de Representantes de Estudiantes de Universidades Públicas)[cite: 1].
-* Participating in key policy-making sessions and national education frameworks[cite: 1].
+**Dec 2025 – May 2026**
+* Representing student governing bodies at national assemblies including CREUP (Coordinadora de Representantes de Estudiantes de Universidades Públicas).
+* Participating in key policy-making sessions and national education frameworks.
 `Leadership` `Public Relations` `Governance` `Negotiation`
 
 ### **Board Member** | *Junta de Facultad de Ciencias — Universidad de Salamanca*
-**Mar 2026 – Present**[cite: 1]
-* Active voter and representative on academic committees including Teaching, International Relations, Curricula, External Internships, and Bachelor's Thesis (TFG)[cite: 1].
+**Mar 2026 – Present**
+* Active voter and representative on academic committees including Teaching, International Relations, Curricula, External Internships, and Bachelor's Thesis (TFG).
 `Academic Policy` `Curriculum Design` `Institutional Strategy`
 
 ### **RITSI Student Representative** | *Delegación de Estudiantes de Ciencias*
-**Oct 2025 – Mar 2026**[cite: 1]
-* Delegated representative for the Computer Engineering Sectorial (RITSI), participating in training conferences and national extraordinary assemblies[cite: 1].
+**Oct 2025 – Mar 2026**
+* Delegated representative for the Computer Engineering Sectorial (RITSI), participating in training conferences and national extraordinary assemblies.
 `Software Engineering Policy` `RITSI` `Student Advocacy`
 
 ---
@@ -145,9 +145,9 @@ Implemented intermediate code generation, register allocation strategies, and se
 
 | Recognition | Details |
 | :--- | :--- |
-| **1st Place Winner — Ada Byron Regional (1st Year)** |[cite: 1] 1st place overall in the Regional Competitive Programming Contest with team `MOSFET>>`, qualifying for the National Phase (*UCM, 2026*)[cite: 1]. |
-| **National Finalist — XXXV Certamen Jóvenes Investigadores** |[cite: 1] National finalist in Technology & Engineering for published work *"Algoritmos cuánticos en redes sociales"* (*Ministerio de Ciencia / INJUVE, 2024*)[cite: 1]. |
-| **1st Place Winner — II Teleco Games** |[cite: 1] 1st place in the Extremadura regional individual stage and national finalist (*Universidad de Extremadura, 2024*)[cite: 1]. |
+| **1st Place Winner — Ada Byron Regional (1st Year)** | 1st place overall in the Regional Competitive Programming Contest with team `MOSFET>>`, qualifying for the National Phase (*UCM, 2026*). |
+| **National Finalist — XXXV Certamen Jóvenes Investigadores** | National finalist in Technology & Engineering for published work *"Algoritmos cuánticos en redes sociales"* (*Ministerio de Ciencia / INJUVE, 2024*). |
+| **1st Place Winner — II Teleco Games** | 1st place in the Extremadura regional individual stage and national finalist (*Universidad de Extremadura, 2024*). |
 
 </div>
 
@@ -156,8 +156,8 @@ Implemented intermediate code generation, register allocation strategies, and se
 ## 📜 Certifications
 
 ### **Universidad de Salamanca (USAL)**
-* <img src="https://img.shields.io/badge/USAL-Data%20Analysis%20with%20AI%20in%20Science%20%26%20Engineering-4B0082?style=flat-square&logo=academic&logoColor=white" alt="AI Data Analysis" />[cite: 1] *Data Analysis with Artificial Intelligence in Science, Engineering, and Architecture (2 ECTS)*[cite: 1]
-* <img src="https://img.shields.io/badge/USAL-Career%20Transition%20%26%20Employment%20Skills-5A189A?style=flat-square&logo=academic&logoColor=white" alt="Career Skills" />[cite: 1] *Skills for Career Transition and Employment (3 ECTS)*[cite: 1]
+* <img src="https://img.shields.io/badge/USAL-Data%20Analysis%20with%20AI%20in%20Science%20%26%20Engineering-4B0082?style=flat-square&logo=academic&logoColor=white" alt="AI Data Analysis" /> *Data Analysis with Artificial Intelligence in Science, Engineering, and Architecture (2 ECTS)*
+* <img src="https://img.shields.io/badge/USAL-Career%20Transition%20%26%20Employment%20Skills-5A189A?style=flat-square&logo=academic&logoColor=white" alt="Career Skills" /> *Skills for Career Transition and Employment (3 ECTS)
 
 ---
 
@@ -234,5 +234,5 @@ open_to:
   - Software Engineering Internships
   - Research & Open Source Collaboration
 ```
-[cite: 1]: Rodríguez-Fernández, N. et al. (Sept. 2025). *Algoritmos cuánticos en redes sociales*. "Actas 35° Congreso Jóvenes Investigadores". INJUVE. pp 395-406. NIPO: 160250075. [Enlace al artículo](https://www.injuve.es/sites/default/files/adjuntos/2025/09/ACTAS_JovenesInvestigadores35.pdf#page=199)
+[^1]: Rodríguez-Fernández, N. et al. (Sept. 2025). *Algoritmos cuánticos en redes sociales*. "Actas 35° Congreso Jóvenes Investigadores". INJUVE. pp 395-406. NIPO: 160250075. [Enlace al artículo](https://www.injuve.es/sites/default/files/adjuntos/2025/09/ACTAS_JovenesInvestigadores35.pdf#page=199)
   
