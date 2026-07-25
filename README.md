@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#4A00E0&custom_color_2=#8E2DE2&height=200&section=header&text=Nicolás%20Rodríguez%20Fernández&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=Software+Engineer+%26+Data+Scientist;Double+Degree+in+Stats+%26+Computer+Engineering;Competitive+Programmer+%7C+Ada+Byron+Finalist;Quantum+Computing+%26+AI+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=NICOLÁS+RODRÍGUEZ+FERNÁNDEZ'S+PAGE:Future+Software+Engineer+%26+Data+Scientist;Double+Degree+in+Stats+%26+Computer+Engineering;Competitive+Programmer+%7C+Ada+Byron+Finalist;Quantum+Computing+%26+AI+Researcher" alt="Typing SVG" />
   </a>
 
   <br />
