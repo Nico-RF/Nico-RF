@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#4A00E0&custom_color_2=#8E2DE2&height=200&section=header&text=Nicolás%20Rodríguez%20Fernández&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=NICOLÁS+RODRÍGUEZ+FERNÁNDEZ'S+PAGE:Future+Software+Engineer+%26+Data+Scientist;Double+Degree+in+Stats+%26+Computer+Engineering;Competitive+Programmer+%7C+Ada+Byron+Finalist;Quantum+Computing+%26+AI+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=NICOLÁS+RODRÍGUEZ+FERNÁNDEZ'S+PAGE;Future+Software+Engineer+%26+Data+Scientist;Double+Degree+in+Stats+%26+Computer+Engineering;Competitive+Programmer+%7C+Ada+Byron+Finalist;Quantum+Computing+%26+AI+Researcher" alt="Typing SVG" />
   </a>
 
   <br />
@@ -48,17 +48,12 @@ I am a Computer Engineering and Statistics student at the University of Salamanc
 
 ### Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,python,html,assembly,verilog" alt="Languages" />
-</p>
-
-### Backend & Databases
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend & Databases" />
+  <img src="https://skillicons.dev/icons?i=c,python,verilog,r,html" alt="Languages" />
 </p>
 
 ### Cloud, DevOps & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,bash,wsl,shell,markdown" alt="Tools & DevOps" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,markdown,linkedin" alt="Tools & DevOps" />
 </p>
 
 ---
@@ -93,7 +88,7 @@ A comprehensive compiler implementation designed for programming language proces
 ### Technical Highlights
 Designed a formal grammar lexer and parser pipeline using Flex and Bison to tokenize, parse, and generate abstract syntax trees. Features structured symbol table management and semantic evaluation. Developed collaboratively with [@Ugulberto](https://github.com/Ugulberto).
 
-
+<br />
 
 <summary><b>⚙️ COMPII_PRACTICAFINAL — Advanced Compiler & Code Generation System</b></summary>
 
