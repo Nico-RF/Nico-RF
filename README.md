@@ -67,7 +67,7 @@ I am a Computer Engineering and Statistics student at the University of Salamanc
 
 | Domain | Proficiency | Details |
 | :--- | :--- | :--- |
-| **Quantum Computing** | Advanced |Published research on quantum algorithms applied to social networks (*INJUVE 2024/2025*)[cite: 1]. |
+| **Quantum Computing** | Advanced |Published research on quantum algorithms applied to social networks (*INJUVE 2024/2025*)[^1]. |
 | **Data Analysis & AI** | Advanced | Certified in AI-driven data analysis across science, engineering, and architecture. |
 | **Competitive Programming** | Expert | 1st Place Winner in the Ada Byron Regional Competitive Programming Contest. |
 
