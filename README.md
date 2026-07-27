@@ -66,6 +66,8 @@ I am a Computer Engineering and Statistics student at the University of Salamanc
 | **Data Analysis & AI** | Advanced | Certified in AI-driven data analysis across science, engineering, and architecture. |
 | **Competitive Programming** | Expert | 1st Place Winner in the Ada Byron Regional Competitive Programming Contest. |
 
+<br />
+
 ---
 ## 📂 Featured Projects
 
@@ -85,6 +87,8 @@ A digital systems project implementing an arbitrary-sequence 4-bit counter in Ve
 ### Technical Highlights
 
 Designed and implemented a configurable 4-bit arbitrary counter using Verilog HDL. Simulated and verified circuit behaviour with Icarus Verilog and GTKWave, documenting the complete design process and hardware architecture.
+
+<br />
 
 ---
 
@@ -106,6 +110,8 @@ A modular Motorola 6809 Assembly application capable of translating ASCII text t
 Developed a structured Assembly application featuring reusable libraries, lookup tables, buffered text processing and bidirectional Morse conversion. The project includes multiple operating modes (character, word and line processing), modular subroutines, and Shell automation for building and executing the application.
 
 ---
+
+<br />
 
 ## 💼 Experience
 
