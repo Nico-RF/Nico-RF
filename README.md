@@ -108,8 +108,6 @@ An advanced follow-up compiler architecture focused on semantic verification, co
 ### Technical Highlights
 Implemented intermediate code generation, register allocation strategies, and semantic error reporting. Built jointly with [@Ugulberto](https://github.com/Ugulberto) to demonstrate scalable system design and compilation techniques.
 
-</details>
-
 ---
 
 ## 💼 Experience
@@ -138,7 +136,7 @@ Implemented intermediate code generation, register allocation strategies, and se
 
 | Recognition | Details |
 | :--- | :--- |
-| **1st Place Winner — Ada Byron Regional (1st Year)** | 1st place overall in the Regional Competitive Programming Contest with team `MOSFET>>`, qualifying for the National Phase (*UCM, 2026*). |
+| **1st Place Winner — Ada Byron Regional (1st Year)** | 1st place overall in the Regional Competitive Programming Contest with team `MOSFET`, qualifying for the National Phase (*UCM, 2026*). |
 | **National Finalist — XXXV Certamen Jóvenes Investigadores** | National finalist in Technology & Engineering for published work *"Algoritmos cuánticos en redes sociales"* (*Ministerio de Ciencia / INJUVE, 2024*). |
 | **1st Place Winner — II Teleco Games** | 1st place in the Extremadura regional individual stage and national finalist (*Universidad de Extremadura, 2024*). |
 
@@ -149,8 +147,10 @@ Implemented intermediate code generation, register allocation strategies, and se
 ## 📜 Certifications
 
 ### **Universidad de Salamanca (USAL)**
-* <img src="https://img.shields.io/badge/USAL-Data%20Analysis%20with%20AI%20in%20Science%20%26%20Engineering-4B0082?style=flat-square&logo=academic&logoColor=white" alt="AI Data Analysis" /> *Data Analysis with Artificial Intelligence in Science, Engineering, and Architecture (2 ECTS)*
-* <img src="https://img.shields.io/badge/USAL-Career%20Transition%20%26%20Employment%20Skills-5A189A?style=flat-square&logo=academic&logoColor=white" alt="Career Skills" /> *Skills for Career Transition and Employment (3 ECTS)
+
+* <img src="https://img.shields.io/badge/Data%20Analysis%20with%20AI%20in%20Science%20%26%20Engineering-4B0082?style=flat-square&logo= " /> *(2 ECTS)*
+* <img src="https://img.shields.io/badge/Introduction%20to%20Programming%20in%20Python-4B0082?style=flat-square&logo=python&logoColor=white" /> *(2 ECTS)*
+* <img src="https://img.shields.io/badge/Skills%20for%20Career%20Transition%20%26%20Employment%20Skills-5A189A?style=flat-square&logo= " /> *(3 ECTS)*
 
 ---
 
@@ -158,14 +158,14 @@ Implemented intermediate code generation, register allocation strategies, and se
 
 <div align="center">
 
-  <a href="https://leetcode.com/">
+  <a href="https://leetcode.com/u/nicolasrf/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerrank.com/">
+  <a href="https://www.hackerrank.com/profile/rodriguezfernan3">
     <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://codeforces.com/">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" />
+  <a href="https://aceptaelreto.com/user/submission.php?id=1123118">
+    <img src="https://img.shields.io/badge/Acepta_el_reto-1F8ACB?style=for-the-badge&logoColor=white" alt="Acepta el reto" />
   </a>
 
 </div>
