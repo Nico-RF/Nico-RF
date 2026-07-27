@@ -174,23 +174,14 @@ Developed a structured Assembly application featuring reusable libraries, lookup
 </div>
 
 ---
-
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nico-RF&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-RF&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Nico-RF&theme=tokyonight&hide_border=true"/>
-
+  <!-- Using community mirror endpoints that bypass main rate limits -->
+  <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=Nico-RF&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Nico-RF&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=Nico-RF&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
@@ -198,9 +189,7 @@ Developed a structured Assembly application featuring reusable libraries, lookup
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Nico-RF&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
+  <img src="https://github-profile-trophy.vercel.app/?username=Nico-RF&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -208,9 +197,7 @@ Developed a structured Assembly application featuring reusable libraries, lookup
 ## 📈 Contribution Activity
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico-RF&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico-RF&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=7B2CBF&point=FFFFFF" width="100%" alt="Contribution Graph" />
 </div>
 
 ---
