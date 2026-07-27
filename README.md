@@ -67,46 +67,43 @@ I am a Computer Engineering and Statistics student at the University of Salamanc
 | **Competitive Programming** | Expert | 1st Place Winner in the Ada Byron Regional Competitive Programming Contest. |
 
 ---
-
 ## 📂 Featured Projects
 
-<summary><b>🔍 COMPI_PRACTICAFINAL — Compiler & Language Processor</b></summary>
+### 🔢 COMPI_PRACTICAFINAL — Arbitrary 4-Bit Counter in Verilog
 
-<br />
-
-A comprehensive compiler implementation designed for programming language processing, syntax analysis, and intermediate code generation. Developed in collaboration with [@Ugulberto](https://github.com/Ugulberto).
+A digital systems project implementing an arbitrary-sequence 4-bit counter in Verilog HDL. Developed in collaboration with [@Ugulberto](https://github.com/Ugulberto) for the Computer Architecture I course at the University of Salamanca.
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | C / C++, Flex, Bison, Make |
-| **Scale** | Multi-phase compiler pipeline |
-| **Performance** | Optimized O(N) AST Parsing & Lexical Analysis |
-| **Security** | Strict memory management & robust error handling |
-| **Impact** | Complete end-to-end language processor |
+| **Stack** | Verilog HDL, Icarus Verilog, GTKWave |
+| **Domain** | Digital Logic Design & Hardware Description |
+| **Features** | Arbitrary counting sequence, simulation & waveform verification |
+| **Architecture** | Modular Verilog implementation |
+| **Deliverables** | Source code, circuit design, simulation dump & technical report |
 | **Repository** | [Nico-RF/COMPI_PRACTICAFINAL](https://github.com/Nico-RF/COMPI_PRACTICAFINAL) |
 
 ### Technical Highlights
-Designed a formal grammar lexer and parser pipeline using Flex and Bison to tokenize, parse, and generate abstract syntax trees. Features structured symbol table management and semantic evaluation. Developed collaboratively with [@Ugulberto](https://github.com/Ugulberto).
 
-<br />
+Designed and implemented a configurable 4-bit arbitrary counter using Verilog HDL. Simulated and verified circuit behaviour with Icarus Verilog and GTKWave, documenting the complete design process and hardware architecture.
 
-<summary><b>⚙️ COMPII_PRACTICAFINAL — Advanced Compiler & Code Generation System</b></summary>
+---
 
-<br />
+### 📡 COMPII_PRACTICAFINAL — Motorola 6809 Morse Code Translator
 
-An advanced follow-up compiler architecture focused on semantic verification, code generation, and runtime optimization. Developed in collaboration with [@Ugulberto](https://github.com/Ugulberto).
+A modular Motorola 6809 Assembly application capable of translating ASCII text to Morse code and Morse code back to text through a menu-driven interface. Developed in collaboration with [@Ugulberto](https://github.com/Ugulberto).
 
 | Attribute | Specification |
 | :--- | :--- |
-| **Stack** | C++, System Architecture, Assembly Code Gen |
-| **Scale** | Full Target Code Generation Architecture |
-| **Performance** | Minimal memory overhead with linear AST traversal |
-| **Security** | Type safety verification & compile-time error checks |
-| **Impact** | Fully functional back-end compiler pipeline |
+| **Stack** | Motorola 6809 Assembly, Shell, ASM6809 |
+| **Domain** | Low-Level Programming & Computer Architecture |
+| **Features** | ASCII ↔ Morse translation, interactive menu system |
+| **Architecture** | Modular assembly libraries and reusable subroutines |
+| **Components** | Character tables, conversion routines, buffered input handling |
 | **Repository** | [Ugulberto/COMPII_PRACTICAFINAL](https://github.com/Ugulberto/COMPII_PRACTICAFINAL) |
 
 ### Technical Highlights
-Implemented intermediate code generation, register allocation strategies, and semantic error reporting. Built jointly with [@Ugulberto](https://github.com/Ugulberto) to demonstrate scalable system design and compilation techniques.
+
+Developed a structured Assembly application featuring reusable libraries, lookup tables, buffered text processing and bidirectional Morse conversion. The project includes multiple operating modes (character, word and line processing), modular subroutines, and Shell automation for building and executing the application.
 
 ---
 
@@ -172,21 +169,32 @@ Implemented intermediate code generation, register allocation strategies, and se
 
 ---
 
-## 📊 GitHub Analytics and Trophies
+---
+
+## 📊 GitHub Analytics
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Nico-RF&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=7B2CBF&text_color=C9D1D9" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nico-RF&theme=dark&hide_border=true&background=0D1117&stroke=7B2CBF&ring=9D4EDD&fire=7B2CBF&currStreakNum=C9D1D9&sidenums=C9D1D9" alt="GitHub Streak" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nico-RF&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true"/>
 
-  <br />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-RF&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=C9D1D9" alt="Top Languages" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nico-RF&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nico-RF&theme=darkhub&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+
+<img src="https://streak-stats.demolab.com?user=Nico-RF&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=Nico-RF&theme=tokyonight&no-frame=true&row=2&column=4"/>
+
 </div>
 
 ---
@@ -194,7 +202,9 @@ Implemented intermediate code generation, register allocation strategies, and se
 ## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico-RF&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=7B2CBF&point=FFFFFF" width="100%" alt="Contribution Graph" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico-RF&theme=tokyo-night&hide_border=true"/>
+
 </div>
 
 ---
@@ -202,13 +212,18 @@ Implemented intermediate code generation, register allocation strategies, and se
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nico-RF/Nico-RF/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nico-RF/Nico-RF/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/output/github-contribution-grid-snake.svg">
+</picture>
+
 </div>
 
 ---
 
 ## 🎯 Current Focus
-
 ```yaml
 learning:
   - Advanced Compiler Design & Optimization
@@ -223,5 +238,8 @@ open_to:
   - Software Engineering Internships
   - Research & Open Source Collaboration
 ```
+
+<br />
+
 [^1]: Rodríguez-Fernández, N. et al. (Sept. 2025). *Algoritmos cuánticos en redes sociales*. "Actas 35° Congreso Jóvenes Investigadores". INJUVE. pp 395-406. NIPO: 160250075. [Enlace al artículo](https://www.injuve.es/sites/default/files/adjuntos/2025/09/ACTAS_JovenesInvestigadores35.pdf#page=199)
   
