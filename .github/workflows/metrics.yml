@@ -18,7 +18,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # Uses GitHub's built-in short-lived token — NO PAT NEEDED!
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           
           # Options
           user: Nico-RF
