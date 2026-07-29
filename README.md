@@ -181,29 +181,14 @@ Developed a structured Assembly application featuring reusable libraries, lookup
 </div>
 
 <div align="center">
-  <img arc="https://raw.githubusercontent.com/Nico-RF/Nico-RF/main/github-metrics.svg" />
-  <img src="https://streak-stats.demolab.com?user=Nico-RF&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/main/github-trophies.svg" alt="GitHub Trophies" />
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nico-RF&theme=tokyonight&no-frame=true&row=2&column=4" alt="GitHub Trophies" />
-</div>
-
----
-
-## 📈 Contribution Activity
+## 📈 Contribution Activity and Snake
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nico-RF&theme=react-dark&bg_color=0D1117&hide_border=true&color=9D4EDD&line=7B2CBF&point=FFFFFF" width="100%" alt="Contribution Graph" />
 </div>
-
----
-
-## 🐍 Contribution Snake
 
 <div align="center">
 
