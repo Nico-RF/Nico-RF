@@ -177,7 +177,7 @@ Developed a structured Assembly application featuring reusable libraries, lookup
 ## 📊 GitHub Analytics and Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/main/github-metrics.svg?v=1" alt="GitHub Metrics " />
+  <img src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/main/github-metrics.svg?v=2" alt="GitHub Metrics " />
 </div>
 
 <div align="center">
