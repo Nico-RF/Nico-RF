@@ -2,9 +2,7 @@ name: Generate Profile Trophies
 
 on:
   schedule:
-    # Runs automatically every 12 hours
     - cron: "0 */12 * * *"
-  # Allows manual triggers from the Actions tab
   workflow_dispatch:
 
 permissions:
@@ -17,18 +15,18 @@ jobs:
       - name: Generate Trophies SVG
         uses: lowlighter/metrics@latest
         with:
-          # Uses built-in temporary token - NO PAT required
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # General Settings
           user: Nico-RF
           filename: github-trophies.svg
-          base: "" # Disables standard stats/header to isolate trophies
+          base: "" # Keeps stats off, isolates trophies only
           config_theme: tokyonight
 
-          # Achievements / Trophies Plugin
+          # Achievements Configuration
           plugin_achievements: yes
-          plugin_achievements_threshold: X     # Displays all earned rank tiers
-          plugin_achievements_secrets: yes       # Includes secret achievements
-          plugin_achievements_limit: 8           # Maximum number of achievements to display
-          plugin_achievements_display: compact  # Use 'compact' or 'detailed'
+          plugin_achievements_display: compact
+          plugin_achievements_threshold: X
+          
+          # CRITICAL FIX: Explicit list of safe achievements.
+          # This disables the deprecated Projects (classic) API calls.
+          plugin_achievements_only: polyglot, stargazer, deployer, member, maintainer, developer, scripter, packager, explorer, infographile
