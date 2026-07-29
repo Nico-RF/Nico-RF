@@ -24,8 +24,10 @@ jobs:
           user: Nico-RF
           template: classic
           base: header, activity, community, repositories, metadata
+          filename: github-metrics.svg
+          config_theme: tokyonight
           
-          # Plugin: Top Languages
+          # 1. Top Languages Plugin (replaces top-langs card)
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
@@ -33,3 +35,10 @@ jobs:
           plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
+
+          # 2. Streak & Habits Plugin (replaces streak-stats card)
+          plugin_habits: yes
+          plugin_habits_from: 200
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_charts: yes
