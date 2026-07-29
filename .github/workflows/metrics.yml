@@ -2,9 +2,7 @@ name: Generate Profile Metrics
 
 on:
   schedule:
-    # Runs automatically every 12 hours
     - cron: "0 */12 * * *"
-  # Allows manual runs from the Actions tab
   workflow_dispatch:
 
 permissions:
@@ -14,31 +12,28 @@ jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Base Metrics & Languages
+      - name: Metrics, Habits & Languages
         uses: lowlighter/metrics@latest
         with:
-          # Uses GitHub's built-in short-lived token — NO PAT NEEDED!
+          # Classic PAT stored in Repository Secrets
           token: ${{ secrets.METRICS_TOKEN }}
           
-          # Options
           user: Nico-RF
-          template: classic
-          base: header, activity, community, repositories, metadata
           filename: github-metrics.svg
+          base: header, activity, community, repositories
           config_theme: tokyonight
-          
-          # 1. Top Languages Plugin (replaces top-langs card)
+
+          # 1. Top Languages Plugin (REQUIRED for habits parsing to avoid author undefined errors)
           plugin_languages: yes
           plugin_languages_colors: github
           plugin_languages_limit: 8
-          plugin_languages_recent_days: 14
-          plugin_languages_recent_load: 300
           plugin_languages_sections: most-used
           plugin_languages_details: percentage
 
-          # 2. Streak & Habits Plugin (replaces streak-stats card)
+          # 2. Coding Habits Plugin (Fixed parameters)
           plugin_habits: yes
-          plugin_habits_from: 200
-          plugin_habits_days: 14
-          plugin_habits_facts: yes
-          plugin_habits_charts: yes
+          plugin_habits_from: 200        # Reads max 200 recent events
+          plugin_habits_days: 14         # Restricts timeline to last 14 days
+          plugin_habits_facts: yes        # Shows general habit facts (e.g. most active time of day)
+          plugin_habits_charts: yes       # Renders activity distribution charts
+          plugin_habits_trim: yes         # Trims zero-activity hours to prevent layout crashes
