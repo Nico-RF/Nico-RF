@@ -18,7 +18,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # Uses built-in temporary token - NO PAT required
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
           
           # General Settings
           user: Nico-RF
@@ -31,4 +31,4 @@ jobs:
           plugin_achievements_threshold: X     # Displays all earned rank tiers
           plugin_achievements_secrets: yes       # Includes secret achievements
           plugin_achievements_limit: 8           # Maximum number of achievements to display
-          plugin_achievements_display: detailed  # Use 'compact' or 'detailed'
+          plugin_achievements_display: compact  # Use 'compact' or 'detailed'
