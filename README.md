@@ -177,6 +177,10 @@ Developed a structured Assembly application featuring reusable libraries, lookup
 ## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/main/github-metrics.svg" alt="GitHub Metrics" />
+</div>
+
+<div align="center">
   <!-- Using community mirror endpoints that bypass main rate limits -->
   <img height="165" src="https://github-readme-stats-eight.vercel.app/api?username=Nico-RF&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img height="165" src="https://github-readme-stats-eight.vercel.app/api/top-langs/?username=Nico-RF&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
