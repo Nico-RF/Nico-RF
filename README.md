@@ -174,14 +174,14 @@ Developed a structured Assembly application featuring reusable libraries, lookup
 </div>
 
 ---
-## 📊 GitHub Analytics
+## 📊 GitHub Analytics and Trophies
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/main/github-metrics.svg" alt="GitHub Metrics " />
+  <img src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/main/github-metrics.svg?v=1" alt="GitHub Metrics " />
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/main/github-trophies.svg" alt="GitHub Trophies" />
+  <img src="https://raw.githubusercontent.com/Nico-RF/Nico-RF/main/github-trophies.svg?v=1" alt="GitHub Trophies" />
 </div>
 
 ## 📈 Contribution Activity and Snake
