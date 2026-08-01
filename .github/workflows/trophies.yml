@@ -9,24 +9,17 @@ permissions:
   contents: write
 
 jobs:
-  build-trophies:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate Trophies SVG
-        uses: lowlighter/metrics@latest
+      - uses: actions/checkout@v4
+      - uses: ryo-ma/github-profile-trophy@master
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
-          
-          user: Nico-RF
-          filename: github-trophies.svg
-          base: "" # Keeps stats off, isolates trophies only
-          config_theme: tokyonight
-
-          # Achievements Configuration
-          plugin_achievements: yes
-          plugin_achievements_display: compact
-          plugin_achievements_threshold: X
-          
-          # CRITICAL FIX: Explicit list of safe achievements.
-          # This disables the deprecated Projects (classic) API calls.
-          plugin_achievements_only: polyglot, stargazer, deployer, member, maintainer, developer, scripter, packager, explorer, infographile
+          username: Nico-RF
+          target_branch: output
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: .
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
