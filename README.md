@@ -73,7 +73,7 @@ I am a Computer Engineering and Statistics student at the University of Salamanc
 
 ### 🔢 COMPI_PRACTICAFINAL — Arbitrary 4-Bit Counter in Verilog
 
-A digital systems project implementing an arbitrary-sequence 4-bit counter in Verilog HDL. Developed in collaboration with [@Ugulberto](https://github.com/Ugulberto) for the Computer Architecture I course at the University of Salamanca.
+A digital systems project implementing an arbitrary-sequence 4-bit counter in Verilog HDL. Developed in collaboration with [@Ugulberto](https://github.com/Ugulberto) for the "Computers I" course at the University of Salamanca.
 
 | Attribute | Specification |
 | :--- | :--- |
