@@ -174,10 +174,10 @@ Developed a structured Assembly application featuring reusable libraries, lookup
 </div>
 
 ---
-## 📊 GitHub Analytics and Trophies
+## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nico-RF&show_icons=true&theme=radial" alt="Nicolás's GitHub Stats" />
+  <img src="github-metrics.svg" alt="Nicolás's GitHub Metrics" />
 </div>
 
 ---
