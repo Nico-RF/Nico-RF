@@ -1,3 +1,11 @@
+<a href="https://www.gitascii.com">
+  <img
+    src="https://www.gitascii.com/api/Nico-RF?v=1787004698789"
+    alt="GitAscii Widget"
+    width="100%"
+  />
+</a>
+
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#4A00E0&custom_color_2=#8E2DE2&height=200&section=header&text=Nicolás%20Rodríguez%20Fernández&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
