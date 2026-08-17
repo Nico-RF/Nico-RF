@@ -1,12 +1,9 @@
 name: Metrics
 
 on:
-  # Schedule updates (every midnight)
   schedule:
     - cron: "0 0 * * *"
-  # Allow manual trigger from the Actions tab
   workflow_dispatch:
-  # Run on push to main
   push:
     branches:
       - main
@@ -25,3 +22,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           filename: github-metrics.svg
           config_timezone: Europe/Madrid
+          
+          # Fix for 'Error Fetching Resource' when API rate limits or permissions fail
+          use_prebuilt_image: yes
+          plugins_errors_fatal: no
