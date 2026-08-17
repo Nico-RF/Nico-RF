@@ -48,7 +48,7 @@ I am a Computer Engineering and Statistics student at the University of Salamanc
 
 **Languages** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Cloud, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=c,python,verilog,r,html" alt="Languages" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,markdown,linkedin" alt="Tools & DevOps" />
+<img src="https://skillicons.dev/icons?i=c,python,verilog,r,html" alt="Languages" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,markdown,linkedin" alt="Tools & DevOps" />
 
 ---
 
