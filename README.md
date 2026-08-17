@@ -1,6 +1,6 @@
 <a href="https://www.gitascii.com">
   <img
-    src="https://www.gitascii.com/api/Nico-RF?v=1787004698789"
+    src="https://www.gitascii.com/api/Nico-RF?v=1787004954009"
     alt="GitAscii Widget"
     width="100%"
   />
