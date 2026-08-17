@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&custom_color_1=#4A00E0&custom_color_2=#8E2DE2&height=200&section=header&text=Nicolás%20Rodríguez%20Fernández&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=NICOLÁS+RODRÍGUEZ+FERNÁNDEZ'S+PAGE;Future+Software+Engineer+%26+Data+Scientist;Double+Degree+in+Stats+%26+Computer+Engineering;Competitive+Programmer+%7C+Ada+Byron+Finalist;Quantum+Computing+%26+AI+Researcher" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=600&lines=NICOLÁS+RODRÍGUEZ+FERNÁNDEZ'S+PAGE;Future+Software+Engineer+%26+Data+Scientist;Double+Degree+in+Stats+%26+Computer+Engineering;Competitive+Programmer+%7C+Ada+Byron+Finalist" alt="Typing SVG" />
   </a>
 
   <br />
@@ -46,25 +46,20 @@ I am a Computer Engineering and Statistics student at the University of Salamanc
 
 ## 💻 Tech Stack
 
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=c,python,verilog,r,html" alt="Languages" />
-</p>
+**Languages** &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; **Cloud, DevOps & Tools**
 
-### Cloud, DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,markdown,linkedin" alt="Tools & DevOps" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,python,verilog,r,html" alt="Languages" /> &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;&nbsp; <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,markdown,linkedin" alt="Tools & DevOps" />
 
 ---
 
-## 🧠 AI / ML & Research Expertise
+## 🧠🏆 AI, Computing, & Research Expertise; Achievements
 
-| Domain | Proficiency | Details |
+| Domain / Title | Details | Awarding body
 | :--- | :--- | :--- |
-| **Quantum Computing** | Advanced |Published research on quantum algorithms applied to social networks (*INJUVE 2024/2025*)[^1]. |
-| **Data Analysis & AI** | Advanced | Certified in AI-driven data analysis across science, engineering, and architecture. |
-| **Competitive Programming** | Expert | 1st Place Winner in the Ada Byron Regional Competitive Programming Contest. |
+| **Data Analysis & AI** | Certified in **AI-driven data analysis** across science, engineering, and architecture. | *Universidad de Salamanca, 2025* |
+| **Competitive Programming** | 1st place category 'A' winner in the **Ada Byron Regional contest** with team `MOSFET`, qualifying for the National Phase. | *Universidad Complutense, 2026* |
+| **Quantum Computing** | National finalist for research on computing and quantum algorithms applied to social media networks[^1], (**XXXV Young Researchers Congress**). | *Ministry for Cience / INJUVE, 2024*
+| **Tech Olympiad** | 1st place in the Extremadura regional individual stage and national finalist in the **II Teleco Games** | *Universidad de Extremadura, 2024*. |
 
 <br />
 
@@ -114,36 +109,10 @@ Developed a structured Assembly application featuring reusable libraries, lookup
 <br />
 
 ## 💼 Experience
-
-### **Deputy Secretary of External Relations** | *Consejo de Delegaciones de Estudiantes — Universidad de Salamanca*
-**Dec 2025 – May 2026**
-* Representing student governing bodies at national assemblies including CREUP (Coordinadora de Representantes de Estudiantes de Universidades Públicas).
-* Participating in key policy-making sessions and national education frameworks.
-`Leadership` `Public Relations` `Governance` `Negotiation`
-
-### **Board Member** | *Junta de Facultad de Ciencias — Universidad de Salamanca*
-**Mar 2026 – Present**
-* Active voter and representative on academic committees including Teaching, International Relations, Curricula, External Internships, and Bachelor's Thesis (TFG).
-`Academic Policy` `Curriculum Design` `Institutional Strategy`
-
 ### **RITSI Student Representative** | *Delegación de Estudiantes de Ciencias*
 **Oct 2025 – Mar 2026**
 * Delegated representative for the Computer Engineering Sectorial (RITSI), participating in training conferences and national extraordinary assemblies.
 `Software Engineering Policy` `RITSI` `Student Advocacy`
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| Recognition | Details |
-| :--- | :--- |
-| **1st Place Winner — Ada Byron Regional (1st Year)** | 1st place overall in the Regional Competitive Programming Contest with team `MOSFET`, qualifying for the National Phase (*UCM, 2026*). |
-| **National Finalist — XXXV Certamen Jóvenes Investigadores** | National finalist in Technology & Engineering for published work *"Algoritmos cuánticos en redes sociales"* (*Ministerio de Ciencia / INJUVE, 2024*). |
-| **1st Place Winner — II Teleco Games** | 1st place in the Extremadura regional individual stage and national finalist (*Universidad de Extremadura, 2024*). |
-
-</div>
 
 ---
 
